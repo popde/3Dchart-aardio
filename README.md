@@ -7,4 +7,4 @@
 数据从excel中获取, 然后写入到这个控件里, 这里利用aardio的string.database来处理csv格式的excel , 比较简单.
 
 这个界面是我集成在另外一个软件上面的, 这里只分享下这个界面里面的数据处理.
-本文首发:https://www.htmlayout.cn/t/417
+本文首发:https://www.aardio.com.cn/t/417
